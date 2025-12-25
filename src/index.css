@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.active li{
+  border-bottom: 2px solid red;
+}
+
+input{
+  background-color: #fff;
+  accent-color: red;
+  border: 1px solid #ccc;
+  color: #333;
+}
